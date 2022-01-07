@@ -8,7 +8,7 @@ img {
 .jumbotron {
   background-color: blanchedalmond;
   margin-top: 25px;
-  border: 2px solid black;
+  border: 2px solid blanchedalmond;
   padding: 25px;
 }
 
@@ -29,7 +29,7 @@ img {
 }
 
 .about {
-  border: 2px solid black;
+  border: 2px solid blanchedalmond;
   margin-bottom: 25px;
   padding: 25px;
   background-color: blanchedalmond;
@@ -40,7 +40,7 @@ img {
 }
 
 .card {
-  border: 2px solid black;
+  border: 2px solid blanchedalmond;
   height: 425px;
   background-color: blanchedalmond;
 }
@@ -73,7 +73,7 @@ ol li {
 }
 
 .footer {
-  border: 2px solid black;
+  border: 2px solid blanchedalmond;
   background-color: blanchedalmond;
   margin-bottom: 25px;
   padding: 25px;
