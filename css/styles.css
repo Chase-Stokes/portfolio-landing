@@ -12,6 +12,18 @@ img {
   padding: 25px;
 }
 
+.flip {
+  animation: flip 2s linear;
+}
+@keyframes flip{
+  from{
+  transform: rotateX(0deg);
+}
+  to{
+    transform: rotateX(360deg);
+}
+}
+
 .jumbotron p {
   text-decoration: underline;
 }
@@ -71,5 +83,16 @@ ol li {
 body {
   font-size: 80%;
   background-color: black;
+  animation: pulse 5s;
+}
+@keyframes pulse {
+  0% {
+  background-color: blanchedalmond;
+}
+100% {
+  background-color: black;
+}
 }
 
+
+  
