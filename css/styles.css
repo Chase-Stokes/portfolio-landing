@@ -85,13 +85,13 @@ body {
   background-color: black;
   animation: pulse 3s;
 }
-@keyframes pulse {
-  0% {
-  background-color: blanchedalmond;
-}
-100% {
-  background-color: black;
-}
+  @keyframes pulse {
+    0% {
+    background-color: blanchedalmond;
+  }
+  100% {
+    background-color: black;
+  }
 }
 
 
